@@ -15,3 +15,8 @@ Written by Alex Miller
 http://twitter.com/puredanger
 http://tech.puredanger.com
 
+# Use
+
+The presentation here has All Rights Reserved, copyright use, or otherwise. It's provided here for your learning.
+
+The code is provided in public domain - do whatever you want with it! No attribution necessary, no rights reserved.
