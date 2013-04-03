@@ -1,15 +1,17 @@
-# ete
+# README
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+This is a Clojure presentation and sample code. Included are the slides and the code.
 
-The choice is up to you!
+The code is somewhat fragmented and may not actually work for you. It also has some weird
+ns and use definitions due to some weirdnesses of running and testing in Light Table. Code
+is provided as is - take it from what you will be recognize that it was written in the 
+service of the talk.
 
-## Usage
+Many thanks to Philly ETE for hosting this talk in April 2013.
 
-FIXME
+# About
 
-## License
+Written by Alex Miller
+http://twitter.com/puredanger
+http://tech.puredanger.com
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
